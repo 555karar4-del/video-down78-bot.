@@ -24,7 +24,7 @@ import ffmpeg
 load_dotenv()
 
 TOKEN = "8352548859:AAGxEI9yk_4TZwHO9UFZ5A7AhNU3YlvD2hQ"            # من BotFather
-OWNER_ID = "6538981552"  # ايديك التليجرام للتحكم
+OWNER_ID = 6538981552  # ايديك التليجرام للتحكم
 MAX_FILE_SIZE = 50 * 1024 * 1024            # حد تليجرام 50 ميجا
 SUPPORTED_DOMAINS = {
     "tiktok.com", "www.tiktok.com", "vm.tiktok.com",
