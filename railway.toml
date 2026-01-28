@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["ffmpeg", "pkg-config", "libass", "freetype", "fribidi", "fontconfig"]  # إضافات إذا تحتاج subtitles
+
+[deploy]
+startCommand = "python app.py"
