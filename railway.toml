@@ -1,0 +1,5 @@
+[phases.setup]
+nixPkgs = ["...", "ffmpeg"]
+
+[deploy]
+startCommand = "python bot.py"
