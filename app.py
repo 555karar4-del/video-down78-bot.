@@ -41,7 +41,7 @@ except Exception as e:
     print(f"مشكلة ffmpeg: {e}")
 
 TOKEN = "7059711469:AAHZklgdoyO-lwcdLLHoL0yWt_gt8cwEn1U"  # ← التوكن الجديد
-OWNER_ID = 6538981552
+OWNER_ID = 7059711469
 MAX_FILE_SIZE = 50 * 1024 * 1024
 
 print("الإعدادات تم تحميلها")
